@@ -1,0 +1,1 @@
+export const NGROK_URL = "https://26bf-2402-8100-3870-f110-b91a-f150-823e-ebc.ngrok.io/task/latest"
